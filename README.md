@@ -1,2 +1,2 @@
-# Swiggy
+# Swiggy Clone
 Reimplementation of swiggy.
